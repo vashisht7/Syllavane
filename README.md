@@ -76,6 +76,12 @@ Model files total approximately **3.03 GB**. The app bundle and runtime memory a
 
 Projects and revisions are stored in `~/Library/Application Support/Folio/library.sqlite`. Models, backups, logs, and recovery files live under the same application support directory. The internal `Folio` name remains stable to preserve existing data and permissions. This repository and release archives contain application code and resources, not personal libraries, manuscripts, recordings, or model weights.
 
+## Download the Mac preview
+
+The [v0.11.0 preview release](https://github.com/vashisht7/Syllavane/releases/tag/v0.11.0) includes `Syllavane-Mac.zip`, a complete source archive, and verification notes. Unzip the Mac archive and move `Syllavane.app` to Applications. On first use, open Settings to download and start the local models.
+
+The preview targets Apple Silicon and macOS 14+. It is ad-hoc signed and has not been notarized by Apple.
+
 ## Build from source
 
 You need an Apple Silicon Mac running macOS 14 or later, Swift 6 or newer, Xcode command-line tools, CMake, Python 3, and an internet connection for initial dependency downloads.

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "llama",
+    "repo": "ggml-org/llama.cpp",
+    "tag": "v0.6.0",
+    "commit": "d81235049384534c167caea52b85a694f6103d14",
+    "sha256": "a56a6273847c92c2d516b2a971343eaec05b588abe74dc361094cc28493a1fac"
+  },
+  {
+    "name": "whisper",
+    "repo": "ggml-org/whisper.cpp",
+    "tag": "v1.9.5",
+    "commit": "d1be6fde11ac6e0407606b4e42fe72d34add8037",
+    "sha256": "469e96407d4a5f5a72288160f3b5bf0ec69f218b09d68cee2d552a27b525a469"
+  }
+]

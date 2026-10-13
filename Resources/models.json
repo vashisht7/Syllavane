@@ -1,0 +1,29 @@
+[
+  {
+    "id": "writer",
+    "name": "Qwen3 \u00b7 4B Instruct \u00b7 Q4",
+    "file": "Qwen_Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+    "url": "https://huggingface.co/bartowski/Qwen_Qwen3-4B-Instruct-2507-GGUF/resolve/ae44f08e1392f39c0e474af10c3ff8355c8b6688/Qwen_Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+    "sha256": "2fde00ce69dd4899c70d020845e2638353015bba0fdf161b3eb965f2bca4464e",
+    "bytes": 2497280736,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "embedding",
+    "name": "MiniLM \u00b7 semantic search",
+    "file": "all-MiniLM-L6-v2-ggml-model-f16.gguf",
+    "url": "https://huggingface.co/second-state/All-MiniLM-L6-v2-Embedding-GGUF/resolve/544f204f2eaa2d71361ffc74d6df7170285b286a/all-MiniLM-L6-v2-ggml-model-f16.gguf",
+    "sha256": "797b70c4edf85907fe0a49eb85811256f65fa0f7bf52166b147fd16be2be4662",
+    "bytes": 45949216,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "speech",
+    "name": "Whisper Small \u00b7 English",
+    "file": "ggml-small.en.bin",
+    "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-small.en.bin",
+    "sha256": "c6138d6d58ecc8322097e0f987c32f1be8bb0a18532a3f88f734d1bbf9c41e5d",
+    "bytes": 487614201,
+    "license": "MIT"
+  }
+]
